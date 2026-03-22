@@ -2,15 +2,16 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=b675b3&fontAlignY=41&descAlign=0&descAlignY=0&animation=blink&reversal=false"/>
   
   </div>
+
+<div align="right">
   
-<p align="right">
-  <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&color=FFFFFF&width=600&lines=Raissa+Luna" />
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&color=FFFFFF&width=435&lines=Eu+me+chamo+Raissa+Luna)](https://git.io/typing-svg)
+  </div>
+
 
 <p align="center">
   
-Estudante de <b>Ciência da Computação</b> e apaixonada por tecnologia e dados. Atuo na área de <b>engenharia e análise de dados</b>, com experiência em <b>extração, ETL, transformação e modelagem de dados</b>, além da criação de dashboards interativos no <b>Power BI. Gosto de transformar dados em insights e soluções que ajudam na tomada de decisão, sempre buscando evoluir minhas habilidades em programação, dados e BI.<br>
-
+Estudante de <b>Ciência da Computação</b> e apaixonada por tecnologia e dados. Atuo na área de <b>engenharia e análise de dados</b>, com experiência em <b>extração, ETL, transformação e modelagem de dados</b>, além da criação de dashboards interativos no <b>Power BI. 
 
 </p>
 
