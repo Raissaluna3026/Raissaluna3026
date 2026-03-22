@@ -46,10 +46,7 @@ Estudante de <b>Ciência da Computação</b> e apaixonada por tecnologia e dados
 </div>
 
 <br/><br/>
-<div align="center">
 
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjZieW1uNnhmNWE1bzBtbTYydGE4bWN0ZXp0NTB5bDgzYXMzeW5zcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUNd9OxkyJUxJD7uI8/giphy.gif" width="200" />
-</div>
   
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=b675b3&fontAlignY=41&descAlign=0&descAlignY=0&animation=blink&reversal=false&section=footer"/>
