@@ -23,7 +23,7 @@ Estudante de <b>Ciência da Computação</b> e apaixonada por tecnologia e dados
 
 </div>
 
-<br/>
+
 
 <div align="center">
   
