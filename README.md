@@ -18,8 +18,9 @@ Estudante de <b>Ciência da Computação</b> e apaixonada por tecnologia e dados
 
 <div align="center">
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Raissaluna3026&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Raissaluna3026&theme=tokyonight&utcOffset=8) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Raissaluna3026&theme=tokyonight) |
-|:--:|:--:|:--:|
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rsluna-data&theme=tokyonight)    ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rsluna-data&theme=tokyonight&utcOffset=8) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rsluna-data&theme=tokyonight)
+
 
 </div>
 
