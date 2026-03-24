@@ -1,4 +1,4 @@
-><div align="center">
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=b675b3&fontAlignY=41&descAlign=0&descAlignY=0&animation=blink&reversal=false"/>
   
   </div>
@@ -10,11 +10,11 @@
 </div>
 
 
-<p align="center">
+<div align="center">
   
-Estudante de <b>Ciência da Computação</b> e apaixonada por tecnologia e dados. Atuo na área de <b>engenharia e análise de dados</b>, com experiência em <b>extração, ETL, transformação e modelagem de dados</b>, além da criação de dashboards interativos no <b>Power BI. 
+Atuando em <b>engenharia e análise de dados</b> com experiência em <b>ETL, modelagem de dados</b> e <b>Power BI</b>
 
-</p>
+</div>
 
 <div align="center">
 
